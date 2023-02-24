@@ -1,5 +1,5 @@
 
-<a href=mailto:"allysson.jhonnatha@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:allysson.jhonnatha@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a target="_blank" href="https://whatsa.me/559388078435/?t=Ol%C3%A1,%20vi%20seu%20perfil%20no%20github.">![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 ### Quem sou eu?
