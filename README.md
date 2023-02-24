@@ -1,6 +1,6 @@
 
-![Gmail](allysson.jhonnatha@gmail.com)
-![WhatsApp](https://whatsa.me/559388078435/?t=Ol%C3%A1,%20vi%20seu%20perfil%20no%20github.)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(allysson.jhonnatha@gmail.com)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://whatsa.me/559388078435/?t=Ol%C3%A1,%20vi%20seu%20perfil%20no%20github.)
 
 ### Quem sou eu?
 
